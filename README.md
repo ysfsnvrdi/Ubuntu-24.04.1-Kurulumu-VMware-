@@ -1,5 +1,9 @@
 **Ubuntu 24.04.1’in VMware Üzerinde Kurulumu**
 
+**Kullanılan uygulama versiyonları**
+  Ubuntu 24.04.1 LTS
+  VMware Workstation Player 17.5.2
+
 **1) Gerekli Dosyaları İndirme**
 
 VMware Player ve Ubuntu ISO dosyasını sırasıyla [VMware Player](https://www.gezginler.net/indir/vmware-player.html) ve [Ubuntu](https://ubuntu.com/download/desktop) bağlantılarından bilgisayarınıza indirin.
