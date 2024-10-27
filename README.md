@@ -1,6 +1,6 @@
 **Ubuntu 24.04.1’in VMware Üzerinde Kurulumu**
 
-**Kullanılan uygulama versiyonları**
+****Kullanılan uygulama versiyonları****
   
   Ubuntu 24.04.1 LTS
   
