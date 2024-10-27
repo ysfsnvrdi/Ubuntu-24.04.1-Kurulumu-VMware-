@@ -1,6 +1,7 @@
 **Ubuntu 24.04.1’in VMware Üzerinde Kurulumu**
 
 **Kullanılan uygulama versiyonları**
+  
   Ubuntu 24.04.1 LTS
   VMware Workstation Player 17.5.2
 
