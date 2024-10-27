@@ -3,6 +3,7 @@
 **Kullanılan uygulama versiyonları**
   
   Ubuntu 24.04.1 LTS
+  
   VMware Workstation Player 17.5.2
 
 **1) Gerekli Dosyaları İndirme**
